@@ -2,3 +2,7 @@
 name = "wazzok"
 version = "0.1.0"
 authors = ["Richard Dodd <richard.dodd@itp-group.co.uk>"]
+
+[dependencies]
+git2 = "*"
+iron = "*"
