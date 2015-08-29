@@ -36,3 +36,4 @@ Git web frontend (issues, ci, reviews, PRs)
 
 ### Optional
  - Social features (chat, news feed)
+ - Auth integration (PAM, LDAP Kerberos, Keystone, OpenID there are tonnes)
